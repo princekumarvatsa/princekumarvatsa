@@ -208,7 +208,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 📅 Experience:         6+ Years
 💼 Companies:          4 Leading Organizations
 🚀 Projects:           15+ Successfully Delivered
-🎯 Specialization:     AI Integration & Full Stack Development
+🎯 Specialization:     Full Stack Development & LLM Integration
 ⚡ Reliability:        99.9% System Uptime
 🌍 Location:          Hyderabad, India (Remote/Hybrid)
 ```
