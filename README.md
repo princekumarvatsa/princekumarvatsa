@@ -209,8 +209,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 💼 Companies:          4 Leading Organizations
 🚀 Projects:           15+ Successfully Delivered
 🎯 Specialization:     Full Stack Development & LLM Integration
-⚡ Reliability:        99.9% System Uptime
-🌍 Location:          Hyderabad, India (Remote/Hybrid)
+⚡ Reliability:         99.9% System Uptime
+🌍 Location:           Hyderabad, India (Remote/Hybrid)
 ```
 
 ---
